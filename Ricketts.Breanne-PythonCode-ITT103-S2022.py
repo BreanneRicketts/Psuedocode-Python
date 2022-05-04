@@ -1,3 +1,7 @@
+#Author:Breanne Ricketts
+#Date Created: May 2, 2022
+#Course: ITT103
+#Purpose: The purpose of this python code is provide the framework that guides the program's direction, whereas the goals and objectives outline how the purpose will be achieved.
 
 
 Class_1c_rate = 0.06
